@@ -1,1 +1,1 @@
-# Ml-Major
+# AI-Minor
